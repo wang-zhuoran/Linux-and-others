@@ -3,11 +3,11 @@
  - ``bin``中一般存可执行文件，``lib``中一般存静态链接库，``home``是用户文件，也是使用linux系统时最开始的地方。根目录是```/```
 ## 1. 常用文件管理命令
 ```ls```
-![ls](https://github.com/wang-zhuoran/Linux-and-others/blob/main/Linux-notes/img/ls.PNG)
+![ls](https://github.com/wang-zhuoran/Linux-and-others/blob/main/Linux-notes/img/ls.PNG)  
  ```cd```
-![cd](img/cd.png)
+![cd](https://github.com/wang-zhuoran/Linux-and-others/blob/main/Linux-notes/img/cd.PNG)  
 ```mkdir```
-![mkdir](img/mkdir.png)
+![mkdir](https://github.com/wang-zhuoran/Linux-and-others/blob/main/Linux-notes/img/mkdir.PNG)
 - 绝对路径  
 - 相对路径  
     开头是```/```就是绝对路径，相对路径开头一定不是```/```  

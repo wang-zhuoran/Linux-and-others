@@ -3,7 +3,7 @@
  - ``bin``中一般存可执行文件，``lib``中一般存静态链接库，``home``是用户文件，也是使用linux系统时最开始的地方。根目录是```/```
 ## 1. 常用文件管理命令
 ```ls```
-![ls](img/ls.png)
+![ls](https://github.com/wang-zhuoran/Linux-and-others/blob/main/Linux-notes/img/ls.PNG)
  ```cd```
 ![cd](img/cd.png)
 ```mkdir```
